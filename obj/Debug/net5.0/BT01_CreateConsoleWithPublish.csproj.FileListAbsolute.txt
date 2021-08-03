@@ -1,0 +1,16 @@
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\BT01_CreateConsoleWithPublish.exe
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\BT01_CreateConsoleWithPublish.deps.json
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\BT01_CreateConsoleWithPublish.runtimeconfig.json
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\BT01_CreateConsoleWithPublish.runtimeconfig.dev.json
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\BT01_CreateConsoleWithPublish.dll
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\ref\BT01_CreateConsoleWithPublish.dll
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\BT01_CreateConsoleWithPublish.pdb
+D:\C#\BT01_CreateConsoleWithPublish\obj\Debug\net5.0\BT01_CreateConsoleWithPublish.csprojAssemblyReference.cache
+D:\C#\BT01_CreateConsoleWithPublish\obj\Debug\net5.0\BT01_CreateConsoleWithPublish.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BT01_CreateConsoleWithPublish\obj\Debug\net5.0\BT01_CreateConsoleWithPublish.AssemblyInfoInputs.cache
+D:\C#\BT01_CreateConsoleWithPublish\obj\Debug\net5.0\BT01_CreateConsoleWithPublish.AssemblyInfo.cs
+D:\C#\BT01_CreateConsoleWithPublish\obj\Debug\net5.0\BT01_CreateConsoleWithPublish.csproj.CoreCompileInputs.cache
+D:\C#\BT01_CreateConsoleWithPublish\obj\Debug\net5.0\BT01_CreateConsoleWithPublish.dll
+D:\C#\BT01_CreateConsoleWithPublish\obj\Debug\net5.0\ref\BT01_CreateConsoleWithPublish.dll
+D:\C#\BT01_CreateConsoleWithPublish\obj\Debug\net5.0\BT01_CreateConsoleWithPublish.pdb
+D:\C#\BT01_CreateConsoleWithPublish\obj\Debug\net5.0\BT01_CreateConsoleWithPublish.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\publish\BT01_CreateConsoleWithPublish.exe
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\publish\BT01_CreateConsoleWithPublish.dll
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\publish\BT01_CreateConsoleWithPublish.deps.json
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\publish\BT01_CreateConsoleWithPublish.runtimeconfig.json
+D:\C#\BT01_CreateConsoleWithPublish\bin\Debug\net5.0\publish\BT01_CreateConsoleWithPublish.pdb
